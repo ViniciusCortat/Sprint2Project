@@ -1,4 +1,4 @@
-# Sprint2Project: Learning more about Python and Pandas library
+# Sprint 2 Project: Learning more about Python and Pandas library
 
 ## Learning Subjects
 
@@ -13,6 +13,7 @@
 
 ### Functions Used
 
+- read_csv()
 - head()
 - info()
 - rename()
